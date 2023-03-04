@@ -1,5 +1,7 @@
 # JSExpertMax Gesture Controller - Semana JS Expert 7.0
 
+Projeto original: [Erick Wendel](https://github.com/erickWendel/semana-javascript-expert07)
+
 Seja bem vindo(a) à sétima Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
 
 Marque esse projeto com uma estrela 🌟
